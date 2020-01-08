@@ -8,6 +8,6 @@ setup(name='ShapExplainers',
                       "pandas",
                       "numpy == 1.17.3",
                       'scikit-learn',
-                      "shap == 0.29.3",
+                      "shap == 0.34.0",
                       ],
 )
